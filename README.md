@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup NeRd 👋
 
 <!--
 **Zambucko2/Zambucko2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
