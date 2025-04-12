@@ -38,7 +38,3 @@
 
 ```markdown
 [![tattvam.vaidya@gmail.com](https://img.shields.io/badge/email-copy%20to%20clipboard-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-**Email:**  
-```bash
-tattvam.vaidya@gmail.com
