@@ -35,3 +35,7 @@
 
 [![tattvam.vaidya@gmail.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![www.linkedin.com/in/tattvamvaidya](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+**Email:**  
+```bash
+tattvam.vaidya@gmail.com
