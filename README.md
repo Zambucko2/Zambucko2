@@ -10,9 +10,7 @@
 - 🔭 I’m currently working on **learning JavaScript**
 - 🌱 I’m diving into **frontend & backend** development
 - 🤝 I'm open to collaborating on **fun & creative web projects**
-- ⚙️ I’m exploring tools like: `VS Code`, `Node.js`, `Git`, `Figma`, `PySide6`, `Django`
-- 🎨 I love blending **engineering and art** (video, 3D, design)
-- ✍️ Fun fact: I once compared perfectionism to **planes adjusting their course** in an essay ✈️
+- ⚙️ I’m exploring tools like: `Node.js`, `Figma`, `PySide6`, `Django`
 
 ---
 
