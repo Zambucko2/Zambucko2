@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zambucko 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Engineer;Full-Stack+Dev+in+Training;Learning+JavaScript+%2F+Python;Lover+of+Tech+%26+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Engineer;Full-Stack+Dev+in+Training;Learning+fuckall;Lover+of+Tech+%26+Art" alt="Typing SVG" />
 </p>
 
 ---
